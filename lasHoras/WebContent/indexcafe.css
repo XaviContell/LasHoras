@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body
+{
+	background-color: #fdddca ;	
+}
+
+h1 {
+	color: darkred ;
+}
+
+.texto {
+	color: brown ;
+}
